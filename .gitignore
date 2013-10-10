@@ -1,4 +1,7 @@
 *.gem
+*.swp
+*.log
+nohup.out
 *.rbc
 .bundle
 .config
